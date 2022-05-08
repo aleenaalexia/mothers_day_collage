@@ -1,5 +1,5 @@
 const images = ["images/IMG_0079_Original_u1LwWZ2jv (1).jpg", "images/IMG_0101_Original_cuIOd_j5zt.jpg", "images/IMG_0391_Original_LYNrk5RML.jpg",
-"images/IMG_0787_Original_vIeiK7rAO3.jpg", "images/IMG_0956_Original_qRxUbzRg-K.jpg", "images/IMG_0956_Original_qRxUbzRg-K.jpg", 
+"images/IMG_0787_Original_vIeiK7rAO3.jpg", "images/IMG_0956_Original_qRxUbzRg-K.jpg", 
 "images/IMG_1351_Original_eMx4LU1UA.jpg", "images/IMG_1502_Original_SjE3aEaIC.PNG", "images/IMG_2107_Original_x3zH9flg7.jpg", 
 "images/IMG_2170_Original_WGL0a5FyV.HEIC", "images/IMG_3250_CEsZe2PSX.JPG", "images/IMG_3817_Original_0YNdnukZD.jpg",
 "images/IMG_8484_Original_heQcmvUmn.jpg", "images/IMG_8543_Original_Q-q6El3NK.jpg"]
